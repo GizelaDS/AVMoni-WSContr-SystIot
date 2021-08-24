@@ -5,6 +5,7 @@ This project uses a set of wireless nodes (NodeMCU) to monitor the ambient tempe
 
 ### Preview
 [Here][Video] you can find a video demonstrating how the prototype works.
+
 Also, you can see the data of the stored variables [here][ThingSpeak]
 
 
