@@ -4,9 +4,7 @@
 This project uses a set of wireless nodes (NodeMCU) to monitor the ambient temperature and humidity, light intensity and soil moisture, in addition to the water level in the reservoir or tank. Likewise, the system allows controlling the supply of water or irrigation, manually or automatically with thresholds configurable by the user from the graphical interface. The MQTT protocol (RPi) is used for communication, both locally (Node-RED) and remotely (ThingSpeak) for long-term data storage.
 
 ## Preview
-![Diagram](https://github.com/GizelaDS/AVMoni-WSContr-SystIot/blob/main/Capture.png =250x)
-
-<img src="Capture.png" width="200">
+<img src="Capture.png" width="400">
 
 [Here][Video] you can find a video demonstrating how the prototype works.
 
