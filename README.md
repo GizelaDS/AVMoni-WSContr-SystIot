@@ -5,7 +5,8 @@ This project uses a set of wireless nodes (NodeMCU) to monitor the ambient tempe
 
 ## Preview
 ![Diagram](https://github.com/GizelaDS/AVMoni-WSContr-SystIot/blob/main/Capture.png =250x)
-<img src="Assets/Capture.png" width="200">
+
+<img src="Capture.png" width="200">
 
 [Here][Video] you can find a video demonstrating how the prototype works.
 
