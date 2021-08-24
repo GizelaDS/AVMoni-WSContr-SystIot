@@ -17,4 +17,4 @@ Also, you can see the data of the stored variables [here][ThingSpeak]
 
 [Video]: https://youtu.be/SDAUxYumqag
 [ThingSpeak]: https://thingspeak.com/channels/1314546
-[DiagramaBasico]: /AVMoni-WSContr-SystIoT/Capture.png
+[DiagramaBasico]: /GizelaDS/AVMoni-WSContr-SystIoT/Capture.png
