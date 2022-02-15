@@ -8,3 +8,9 @@ Also, you can see the data of the stored variables [here][ThingSpeak]
 
 [Video]: https://youtu.be/SDAUxYumqag
 [ThingSpeak]: https://thingspeak.com/channels/1314546
+
+## Notes
+- Use your network's IP addresses.
+- Use your network's ssid and password.
+- Create and use your own certificates/keys for TLS.
+- Create your channel in ThingSpeak, then use your own WriteAPIKey and FieldIDs to store variable data.
